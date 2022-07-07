@@ -13,10 +13,10 @@ endif
 
 let g:colors_name = 'monochrome'
 
-let s:white  = ['#a3a3a3', 15]
+let s:white  = ['#c1c1c1', 15]
 let s:black  = ['#0e1111', 16]
 let s:bgray  = ['#181818', 233]
-let s:lgray  = ['#a3a3a3', 255]
+let s:lgray  = ['#c1c1c1', 255]
 let s:cgray  = ['#737373', 243]
 let s:dgray  = ['DarkGray', 248]
 let s:sblue  = ['#778899', 67]
